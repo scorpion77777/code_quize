@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#questionsDiv {
+    padding: 3%;
+    text-align: center;
+}
+
+#highscore {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+
+
+}
+
+#Submit {
+    margin-top: 10px;
+}
+
+#timer {
+    position: absolute;
+    top: 10%;
+    right: 10%;
+}
+
+
